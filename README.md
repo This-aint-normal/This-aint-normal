@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @This-aint-normal
-- 👀 I’m interested in game developement 
-- 🌱 I’m currently learning C#
+New to github
+Learning python
 
 
 <!---
