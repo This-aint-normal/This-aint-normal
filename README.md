@@ -1,6 +1,8 @@
-New to github
-Learning python
+# About me
 
+Currently learning C++
+
+Writing my own discord bot
 
 <!---
 This-aint-normal/This-aint-normal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
